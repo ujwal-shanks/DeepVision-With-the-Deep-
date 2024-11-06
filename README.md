@@ -1,6 +1,5 @@
 # DeepVision-With-the-Deep-
-WIDS 2024
-Week1: Introduction to Python, Numpy, Pandas 
-Week2: Basic regression models
-Week3: Intro to neural networks and image processing
+Week1: Introduction to Python, Numpy, Pandas<br>
+Week2: Basic regression models<br>
+Week3: Intro to neural networks and image processing<br>
 Week4: Final Project
